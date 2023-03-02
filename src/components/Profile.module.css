@@ -1,0 +1,15 @@
+.content {
+    grid-area: c;
+    background-color: rgba(0, 0, 0, 0.671);
+    
+
+}
+
+.item {
+    color: rgb(255, 0, 0);
+}
+
+.content img {
+    width: 1200px; /* установить ширину изображения */
+    height: auto; /* сохранить пропорции изображения */
+}
